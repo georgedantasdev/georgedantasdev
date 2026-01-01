@@ -28,7 +28,7 @@ Entre os resultados alcançados, destaco a melhoria de performance das aplicaç�
 
 <h3 align="left">Conecte-se comigo</h3>
 <div> 
-  <a href="https://www.linkedin.com/in/georgedantasti/" target="_blank">
+  <a href="https://www.linkedin.com/in/georgedantasdev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:george.dantas2240@gmail.com">
