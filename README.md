@@ -4,16 +4,13 @@
 
 
 <p align="justify">
-    Desenvolvedor com experiência em liderança técnica e desenvolvimento de software. Atualmente, lidero equipes e foco no desenvolvimento web com React e APIs em TypeScript. Também trabalho com Python, FastAPI, inteligência artificial e automações com RPA, aplicando tecnologia de forma eficiente.
-</p>
+Sou desenvolvedor full-stack com foco em aplicações web modernas, priorizando qualidade, escalabilidade e boas práticas de código.
 
-<p align="justify">
-    <strong>Experiências Principais:</strong><br>
-    -<strong>Liderança:</strong> Liderança em projetos de TypeScript, Jogos, RPA e IA.<br>
-    -<strong>Desenvolvimento de Backend:</strong> Criação de APIs utilizando TypeScript e FastAPI.<br>
-    -<strong>Desenvolvimento de Frontend:</strong> Criação de aplicações web com React.<br>
-    -<strong>Inteligência Artificial (IA):</strong> Desenvolvimento de IA aplicada a diversas áreas.<br>
-    -<strong>Automação de Processos Robóticos (RPA):</strong> Otimização e automação de processos repetitivos para aumentar a eficiência.<br>
+Tenho experiência no desenvolvimento de soluções utilizando React, TypeScript e Node.js, além de contribuir nas decisões técnicas relacionadas à arquitetura, design de sistemas e infraestrutura em nuvem (GCP), exercendo também um papel de liderança técnica dentro da equipe.
+
+Entre os resultados alcançados, destaco a melhoria de performance das aplicações, a organização e padronização do código e o aprimoramento dos processos de desenvolvimento.
+
+🚀 Busco constantemente aprimorar minhas habilidades em React, TypeScript, Node.js e em conhecimentos de engenharia de software, com o objetivo de criar produtos escaláveis, de alta qualidade e sustentáveis.
 </p>
 
 <!-- 
@@ -25,9 +22,8 @@
 </h3>
 
 <div>
-    <img align="center" alt="George-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
     <img align="center" alt="George-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="George-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="George-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 </div>
 
 <h3 align="left">Conecte-se comigo</h3>
