@@ -10,7 +10,7 @@ Tenho experiência no desenvolvimento de soluções utilizando React, TypeScript
 
 Entre os resultados alcançados, destaco a melhoria de performance das aplicações, a organização e padronização do código e o aprimoramento dos processos de desenvolvimento.
 
-🚀 Busco constantemente aprimorar minhas habilidades em React, TypeScript, Node.js e em conhecimentos de engenharia de software, com o objetivo de criar produtos escaláveis, de alta qualidade e sustentáveis.
+Busco constantemente aprimorar minhas habilidades em React, TypeScript, Node.js e em conhecimentos de engenharia de software, com o objetivo de criar produtos escaláveis, de alta qualidade e sustentáveis.
 </p>
 
 <!-- 
