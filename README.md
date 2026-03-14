@@ -4,13 +4,15 @@
 
 
 <p align="justify">
-Sou desenvolvedor full-stack com foco em aplicações web modernas, priorizando qualidade, escalabilidade e boas práticas de código.
+Sou desenvolvedor full-stack com foco no desenvolvimento de aplicações web, atuando principalmente com React, TypeScript e NestJS.
 
-Tenho experiência no desenvolvimento de soluções utilizando React, TypeScript e Node.js, além de contribuir nas decisões técnicas relacionadas à arquitetura, design de sistemas e infraestrutura em nuvem (GCP), exercendo também um papel de liderança técnica dentro da equipe.
+Tenho experiência na criação de sistemas desde o início, participando do desenvolvimento de funcionalidades, definição de arquitetura e decisões técnicas relacionadas à estrutura das aplicações e à infraestrutura em nuvem. 
 
-Entre os resultados alcançados, destaco a melhoria de performance das aplicações, a organização e padronização do código e o aprimoramento dos processos de desenvolvimento.
+No dia a dia, atuo tanto no frontend quanto no backend, desenvolvendo interfaces em React, APIs com NestJS e trabalhando com PostgreSQL, além de participar do deploy e da configuração de serviços na Google Cloud Platform.
 
-Busco constantemente aprimorar minhas habilidades em React, TypeScript, Node.js e em conhecimentos de engenharia de software, com o objetivo de criar produtos escaláveis, de alta qualidade e sustentáveis.
+Também contribuo com a organização do código, definição de padrões de desenvolvimento e mentoria de desenvolvedores juniores e estagiários dentro da equipe.
+
+Busco evoluir constantemente em engenharia de software, arquitetura de sistemas e desenvolvimento com React, TypeScript e NestJS, com foco na construção de produtos escaláveis, bem estruturados e de alta qualidade.
 </p>
 
 <!-- 
