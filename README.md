@@ -23,12 +23,12 @@ Busco evoluir constantemente em engenharia de software, arquitetura de sistemas 
     <span>Tecnologias</span>
 </h3>
 
-<div>
-    <img align="center" alt="George-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="George-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-    <img align="center" alt="George-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-    <img align="center" alt="George-Express" height="30" width="30" src="https://img.icons8.com/ios/50/B0C1D4/express-js.png"/>
-</div>
+<p align="left">
+  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="NestJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
+  <img alt="Express" height="30" src="https://img.icons8.com/ios/50/B0C1D4/express-js.png">
+</p>
 
 <h3 align="left">Conecte-se comigo</h3>
 <div> 
